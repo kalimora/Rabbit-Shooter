@@ -1,12 +1,11 @@
-**Bullet Time**
+**Gallery Shooter**
 
-Multiple examples of how to implement gallery shooter style bullet shooting in Phaser 3
-without using Arcade Physics.
+Based on Bullet time.
 
-* Single bullet
-* Variable size array of bullet sprites
-* Fixed size array of bullet sprites
-* Group object for bullets
-* Using a sprite subclass for the player avatar and bullets, also uses group objects
+* MainScene
+* TitleScene
+* EnemyBullets
+* Bullets
+* Player
 
 Uses [Kenny Assets](https://kenney.nl/assets/), with gratitude.
